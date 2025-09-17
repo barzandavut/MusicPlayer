@@ -36,7 +36,7 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 1. Bu repoyu klonlayın:
    ```bash
-   [git clone [https://github.com/barzandavut/.]
+   [git clone [https://github.com/barzandavut/MusicPlayer]
    ```
 
 2. Tarayıcıda açmak için:
